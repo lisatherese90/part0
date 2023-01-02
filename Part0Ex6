@@ -1,0 +1,4 @@
+Browser->Server: HTTP GET https://fullstack-exampleapp.herokaupp.com/new_note_spa
+Server->Browser: HTML-code 
+Note left of Browser: HTML content manipulated with JavaScript
+Note left of Browser: JavaScript executes in the browser
